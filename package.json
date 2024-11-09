@@ -1,0 +1,13 @@
+{
+  "name": "code-basics.loc",
+  "version": "1.0.0",
+  "description": "https://code-basics.com/ru/languages/typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "typescript": "latest"
+  },
+  "private": true
+}
