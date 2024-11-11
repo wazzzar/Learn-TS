@@ -5,13 +5,13 @@
 
 // BEGIN (write your solution here)
 function getParams(query: string): object {
-    let ret: any = {};
+    let res: any = {};
     let _query = query.split('&');
     for (let i = 0; i < _query.length; i++) {
         let tmp = _query[i].split('=');
-        ret[tmp[0]] = tmp[1];
+        res[tmp[0]] = tmp[1];
     }
-    return ret;
+    return res;
 }
 // END
 

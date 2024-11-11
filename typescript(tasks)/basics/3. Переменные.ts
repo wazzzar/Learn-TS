@@ -2,11 +2,11 @@
 
 // BEGIN (write your solution here)
 function repeat(text: string, count: number): string {
-    let ret = '';
+    let res = '';
     for (let i = 0; i < count; i++) {
-        ret += text;
+        res += text;
     }
-    return ret;
+    return res;
 }
 
 // END
