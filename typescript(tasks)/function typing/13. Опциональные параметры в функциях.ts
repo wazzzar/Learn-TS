@@ -1,3 +1,5 @@
+// https://code-basics.com/ru/languages/typescript/lessons/optional-parameters-in-callbacks
+
 /* eslint-disable @typescript-eslint/no-explicit-any */
 
 // BEGIN (write your solution here)

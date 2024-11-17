@@ -1,3 +1,5 @@
+// https://code-basics.com/ru/languages/typescript/lessons/variables
+
 /* eslint-disable @typescript-eslint/explicit-function-return-type */
 
 // BEGIN (write your solution here)

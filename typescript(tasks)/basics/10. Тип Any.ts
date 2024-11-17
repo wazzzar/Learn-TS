@@ -1,3 +1,5 @@
+// https://code-basics.com/ru/languages/typescript/lessons/any
+
 /* eslint-disable @typescript-eslint/no-unsafe-member-access */
 /* eslint-disable @typescript-eslint/no-unsafe-assignment */
 /* eslint-disable @typescript-eslint/no-unsafe-return */
@@ -13,6 +15,7 @@ function getParams(query: string): object {
     }
     return res;
 }
+
 // END
 
 export default getParams;

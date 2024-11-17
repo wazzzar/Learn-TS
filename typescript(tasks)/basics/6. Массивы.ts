@@ -1,3 +1,5 @@
+// https://code-basics.com/ru/languages/typescript/lessons/arrays
+
 // BEGIN (write your solution here)
 function filterAnagrams(word: string, words: string[]): string[] {
     let arr: string[] = [];

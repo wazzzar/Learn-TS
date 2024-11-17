@@ -1,3 +1,5 @@
+// https://code-basics.com/ru/languages/typescript/lessons/typescript-as-a-second-language
+
 /* eslint-disable @typescript-eslint/explicit-function-return-type */
 
 // BEGIN (write your solution here)

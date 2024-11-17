@@ -1,4 +1,7 @@
+// https://code-basics.com/ru/languages/typescript/lessons/modules
+
 /* eslint-disable @typescript-eslint/no-namespace */
+
 // BEGIN (write your solution here)
 namespace Company {
     export function isEmployeeEmail(email: string, domain: string): boolean {

@@ -1,3 +1,5 @@
+// https://code-basics.com/ru/languages/typescript/lessons/function-as-parameter
+
 // BEGIN (write your solution here)
 function filter(arr: number[], pre: Function): number[] {
     let res: number[] = [];

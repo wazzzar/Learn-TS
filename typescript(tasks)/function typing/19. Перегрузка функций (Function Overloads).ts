@@ -1,3 +1,5 @@
+// https://code-basics.com/ru/languages/typescript/lessons/function-overloads
+
 /* eslint-disable @typescript-eslint/restrict-template-expressions */
 
 // BEGIN (write your solution here)

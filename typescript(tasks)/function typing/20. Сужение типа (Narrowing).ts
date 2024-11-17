@@ -1,3 +1,5 @@
+// https://code-basics.com/ru/languages/typescript/lessons/type-narrowing
+
 // BEGIN (write your solution here)
 function last(val: unknown): number | string {
     if (typeof val == 'number') {
