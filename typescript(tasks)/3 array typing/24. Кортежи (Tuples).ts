@@ -1,4 +1,4 @@
-// https://code-basics.com/ru/languages/typescript/lessons/tuples#editor
+// https://code-basics.com/ru/languages/typescript/lessons/tuples
 
 // BEGIN (write your solution here)
 type Point = [number, number, number];
