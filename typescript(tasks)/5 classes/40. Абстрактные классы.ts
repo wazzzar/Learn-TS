@@ -3,7 +3,6 @@
 // BEGIN (write your solution here)
 abstract class Clock {
     constructor(protected hours: number, protected minutes: number, protected seconds: number) {
-
     }
 
     tick(): void {

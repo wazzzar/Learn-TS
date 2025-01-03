@@ -23,9 +23,7 @@ class CustomFile {
 }
 
 // BEGIN (write your solution here)
-type CustomFileImageOptions = {
-    name: string;
-    size: number;
+type CustomFileImageOptions = CustomFileOptions & {
     width: number;
     height: number;
 };
